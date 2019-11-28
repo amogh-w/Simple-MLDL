@@ -27,3 +27,9 @@ Change the log_dir variable to the path where you want to store your logs.
 | Loss   | Accuracy | Validation Loss | Validation Accuracy |
 | ------ | -------- | --------------- | ------------------- |
 | 0.8085 | 0.7308   | 0.9158          | 0.7292              |
+
+- 3 - Better CIFAR-10 Image Classification
+
+| Loss   | Accuracy | Validation Loss | Validation Accuracy |
+| ------ | -------- | --------------- | ------------------- |
+| 0.3765 | 0.8732   | 0.6425          | 0.8055              |
