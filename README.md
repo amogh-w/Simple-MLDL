@@ -33,3 +33,9 @@ Change the log_dir variable to the path where you want to store your logs.
 | Loss   | Accuracy | Validation Loss | Validation Accuracy |
 | ------ | -------- | --------------- | ------------------- |
 | 0.3765 | 0.8732   | 0.6425          | 0.8055              |
+
+- 4 - Cat and Dog Classification
+
+| Loss   | Accuracy | Validation Loss | Validation Accuracy |
+| ------ | -------- | --------------- | ------------------- |
+| 0.4120 | 0.8202   | 0.5702          | 0.7583              |
