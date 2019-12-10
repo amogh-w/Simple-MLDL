@@ -39,3 +39,13 @@ Change the log_dir variable to the path where you want to store your logs.
 | Loss   | Accuracy | Validation Loss | Validation Accuracy |
 | ------ | -------- | --------------- | ------------------- |
 | 0.4120 | 0.8202   | 0.5702          | 0.7583              |
+
+[Kaggle Dataset: Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats)
+
+- 5 - Fruit Classification
+
+| Loss   | Accuracy | Validation Loss | Validation Accuracy |
+| ------ | -------- | --------------- | ------------------- |
+| 0.2321 | 0.9244   | 0.0951          | 0.9621              |
+
+[Kaggle Dataset: Fruits 360](https://www.kaggle.com/moltean/fruits)
