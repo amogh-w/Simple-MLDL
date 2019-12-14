@@ -49,3 +49,9 @@ Change the log_dir variable to the path where you want to store your logs.
 | 0.2321 | 0.9244   | 0.0951          | 0.9621              |
 
 [Kaggle Dataset: Fruits 360](https://www.kaggle.com/moltean/fruits)
+
+- 6 - Fashion MNIST Classification
+
+| Loss   | Accuracy | Validation Loss | Validation Accuracy |
+| ------ | -------- | --------------- | ------------------- |
+| 0.2488 | 0.9067   | 0.2623          | 0.9068              |
