@@ -63,3 +63,11 @@ Change the log_dir variable to the path where you want to store your logs.
 | 0.4898 | 0.8889   | 0.1708          | 0.9531              |
 
 [Kaggle Dataset: 10 Monkey Species](https://www.kaggle.com/slothkong/10-monkey-species)
+
+- 8 - Flower Identification Transfer Learning
+
+| Loss   | Accuracy | Validation Loss | Validation Accuracy |
+| ------ | -------- | --------------- | ------------------- |
+| 1.0236 | 0.6761   | 0.4600          | 0.8504              |
+
+[Dataset: Flowers 17](http://www.robots.ox.ac.uk/~vgg/data/flowers/17/)
