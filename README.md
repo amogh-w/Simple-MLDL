@@ -79,3 +79,9 @@ Change the log_dir variable to the path where you want to store your logs.
 | 0.3380 | 0.9099   | 0.1153          | 0.9604              |
 
 [Kaggle Dataset: The Simpsons Characters Data](https://www.kaggle.com/alexattia/the-simpsons-characters-dataset)
+
+- 10 - Cat Binary Classifer - Logistic Regression
+
+| Loss   | Accuracy | Validation Loss | Validation Accuracy |
+| ------ | -------- | --------------- | ------------------- |
+| - | 81.5   | -          | 76.0              |
