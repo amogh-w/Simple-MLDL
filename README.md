@@ -80,8 +80,16 @@ Change the log_dir variable to the path where you want to store your logs.
 
 [Kaggle Dataset: The Simpsons Characters Data](https://www.kaggle.com/alexattia/the-simpsons-characters-dataset)
 
-- 10 - Cat Binary Classifer - Logistic Regression
+- 10 - Cat Binary Classifer - Logistic Regression from scratch
 
-| Loss   | Accuracy | Validation Loss | Validation Accuracy |
-| ------ | -------- | --------------- | ------------------- |
-| - | 81.5   | -          | 76.0              |
+| Loss | Accuracy | Validation Loss | Validation Accuracy |
+| ---- | -------- | --------------- | ------------------- |
+| -    | 81.5     | -               | 76.0                |
+
+[Kaggle Dataset: Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats)
+
+- 11 - Linear Regression with TensorFlow 2.0 - [Tutorial](https://heartbeat.fritz.ai/linear-regression-using-tensorflow-2-0-1cd51e211e1f)
+
+| Loss | Accuracy | Validation Loss | Validation Accuracy |
+| ---- | -------- | --------------- | ------------------- |
+| 0.09 | -        | -               | -                   |
