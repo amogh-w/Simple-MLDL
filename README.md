@@ -93,3 +93,9 @@ Change the log_dir variable to the path where you want to store your logs.
 | Loss | Accuracy | Validation Loss | Validation Accuracy |
 | ---- | -------- | --------------- | ------------------- |
 | 0.09 | -        | -               | -                   |
+
+- 12 - GAN for MNIST Handwritten Digits - [Tutorial](https://machinelearningmastery.com/how-to-develop-a-generative-adversarial-network-for-an-mnist-handwritten-digits-from-scratch-in-keras/)
+
+| Discriminator Loss | Generator Loss | Accuracy Real | Accuracy Fake |
+| ------------------ | -------------- | ------------- | ------------- |
+| 0.688              | 0.732          | 0.21          | 0.92          |
